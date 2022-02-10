@@ -1,0 +1,26 @@
+cmd.exe
+/X
+/C
+""C:\Program Files\Java\jdk-15.0.2\bin\javadoc.exe" @options @packages"
+C:\Users\PC\Desktop\DAM\Programacio\Proyecto\Repositorio\proyecto-3a-evaluacion-grupo-1\ProyectoSupermercado\target\site\apidocs\allclasses-index.html = 1623081279112
+C:\Users\PC\Desktop\DAM\Programacio\Proyecto\Repositorio\proyecto-3a-evaluacion-grupo-1\ProyectoSupermercado\target\site\apidocs\allpackages-index.html = 1623081279114
+C:\Users\PC\Desktop\DAM\Programacio\Proyecto\Repositorio\proyecto-3a-evaluacion-grupo-1\ProyectoSupermercado\target\site\apidocs\constant-values.html = 1623081278748
+C:\Users\PC\Desktop\DAM\Programacio\Proyecto\Repositorio\proyecto-3a-evaluacion-grupo-1\ProyectoSupermercado\target\site\apidocs\deprecated-list.html = 1623081279019
+C:\Users\PC\Desktop\DAM\Programacio\Proyecto\Repositorio\proyecto-3a-evaluacion-grupo-1\ProyectoSupermercado\target\site\apidocs\element-list = 1623081278719
+C:\Users\PC\Desktop\DAM\Programacio\Proyecto\Repositorio\proyecto-3a-evaluacion-grupo-1\ProyectoSupermercado\target\site\apidocs\help-doc.html = 1623081279123
+C:\Users\PC\Desktop\DAM\Programacio\Proyecto\Repositorio\proyecto-3a-evaluacion-grupo-1\ProyectoSupermercado\target\site\apidocs\index-all.html = 1623081279102
+C:\Users\PC\Desktop\DAM\Programacio\Proyecto\Repositorio\proyecto-3a-evaluacion-grupo-1\ProyectoSupermercado\target\site\apidocs\index.html = 1623081279023
+C:\Users\PC\Desktop\DAM\Programacio\Proyecto\Repositorio\proyecto-3a-evaluacion-grupo-1\ProyectoSupermercado\target\site\apidocs\jquery-ui.overrides.css = 1623081279170
+C:\Users\PC\Desktop\DAM\Programacio\Proyecto\Repositorio\proyecto-3a-evaluacion-grupo-1\ProyectoSupermercado\target\site\apidocs\member-search-index.js = 1623081279095
+C:\Users\PC\Desktop\DAM\Programacio\Proyecto\Repositorio\proyecto-3a-evaluacion-grupo-1\ProyectoSupermercado\target\site\apidocs\module-search-index.js = 1623081279089
+C:\Users\PC\Desktop\DAM\Programacio\Proyecto\Repositorio\proyecto-3a-evaluacion-grupo-1\ProyectoSupermercado\target\site\apidocs\options = 1623081276524
+C:\Users\PC\Desktop\DAM\Programacio\Proyecto\Repositorio\proyecto-3a-evaluacion-grupo-1\ProyectoSupermercado\target\site\apidocs\overview-summary.html = 1623081279118
+C:\Users\PC\Desktop\DAM\Programacio\Proyecto\Repositorio\proyecto-3a-evaluacion-grupo-1\ProyectoSupermercado\target\site\apidocs\overview-tree.html = 1623081279014
+C:\Users\PC\Desktop\DAM\Programacio\Proyecto\Repositorio\proyecto-3a-evaluacion-grupo-1\ProyectoSupermercado\target\site\apidocs\package-search-index.js = 1623081279090
+C:\Users\PC\Desktop\DAM\Programacio\Proyecto\Repositorio\proyecto-3a-evaluacion-grupo-1\ProyectoSupermercado\target\site\apidocs\packages = 1623081276525
+C:\Users\PC\Desktop\DAM\Programacio\Proyecto\Repositorio\proyecto-3a-evaluacion-grupo-1\ProyectoSupermercado\target\site\apidocs\script.js = 1623081279130
+C:\Users\PC\Desktop\DAM\Programacio\Proyecto\Repositorio\proyecto-3a-evaluacion-grupo-1\ProyectoSupermercado\target\site\apidocs\search.js = 1623081279133
+C:\Users\PC\Desktop\DAM\Programacio\Proyecto\Repositorio\proyecto-3a-evaluacion-grupo-1\ProyectoSupermercado\target\site\apidocs\serialized-form.html = 1623081278789
+C:\Users\PC\Desktop\DAM\Programacio\Proyecto\Repositorio\proyecto-3a-evaluacion-grupo-1\ProyectoSupermercado\target\site\apidocs\stylesheet.css = 1623081279127
+C:\Users\PC\Desktop\DAM\Programacio\Proyecto\Repositorio\proyecto-3a-evaluacion-grupo-1\ProyectoSupermercado\target\site\apidocs\tag-search-index.js = 1623081279096
+C:\Users\PC\Desktop\DAM\Programacio\Proyecto\Repositorio\proyecto-3a-evaluacion-grupo-1\ProyectoSupermercado\target\site\apidocs\type-search-index.js = 1623081279092
