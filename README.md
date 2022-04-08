@@ -128,4 +128,4 @@ Sprint 7 terminado. Frames creados y clases comentadas. Se ha adjuntado toda la 
 
 # SCRUM MASTER
 
--Jaume Fullana
+- Jaume Fullana
