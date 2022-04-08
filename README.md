@@ -119,11 +119,13 @@ Sprint 7 terminado. Frames creados y clases comentadas. Se ha adjuntado toda la 
 
 ![UML](UMLSupermercado.png)
 
-# CREADORES:
+# DESARROLLADORES:
 
 - Joan Francesc Caules
 - Josep Fayos
 - Aaron Fernandez
-- Tamara Fernandez
-- James Cañarte
 - Jaume Fullana
+
+# SCRUM MASTER
+
+-Jaume Fullana
